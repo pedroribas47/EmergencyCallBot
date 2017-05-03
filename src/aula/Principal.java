@@ -19,7 +19,7 @@ public class Principal {
 	public static void main(String[] args) {
 
 		// Criação do objeto bot com as informações de acesso
-		TelegramBot bot = TelegramBotAdapter.build("375036253:AAGoNnGFmdS-4SaOP20Y2KgsilrIiLqd3B8");
+		TelegramBot bot = TelegramBotAdapter.build("XXXXXX-XXXXXX-XXXXXX-XXXXXX-XXXXXX");
 
 		// objeto responsável por receber as mensagens
 		GetUpdatesResponse updatesResponse;
